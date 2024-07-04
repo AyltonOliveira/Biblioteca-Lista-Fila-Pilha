@@ -1,0 +1,2 @@
+go = codigo
+        self.auto
